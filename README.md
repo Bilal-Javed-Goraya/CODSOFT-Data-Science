@@ -1,5 +1,3 @@
-Certainly! Writing a `README.md` file for your GitHub repository is an essential step to provide information about your project, guide users on how to use it, and document the tasks you have completed. Here's a template you can use:
-
 # CODSOFT Data Science Internship
 
 ## About CODSOFT
