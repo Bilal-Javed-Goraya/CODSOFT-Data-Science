@@ -44,7 +44,7 @@ For successful completion of the Data Science internship, you are required to co
 
 ## Get Social With Us
 - Email: 2019n10718@gmail.com
-- LinkedIn: [Bilal Javed Goraya](www.linkedin.com/in/bilal-javed-goraya-1a685327a)
+- LinkedIn: [www.linkedin.com/in/bilal-javed-goraya-1a685327a]
 
 ## Ask for Help
 - If you need assistance or have questions, feel free to reach out. We're here to support your learning journey.
