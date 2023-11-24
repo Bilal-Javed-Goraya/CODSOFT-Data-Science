@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction
+https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
